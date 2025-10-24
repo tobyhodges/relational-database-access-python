@@ -20,6 +20,21 @@ exercises: 0 # TODO
 
 Episode content goes here.
 
+:::::::::::::::::::::::::::: challenge
+
+### Exercise Title
+The text of the exercise goes here.
+
+::::::::::::::::::: solution
+
+### Solution
+The text of the solution goes here.
+
+::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::
+
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 - A relational database is an efficient way of storing tabular information.
