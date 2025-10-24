@@ -67,6 +67,7 @@ contact: 'toby@example.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- relational-databases.md
 
 # Information for Learners
 learners: 
