@@ -13,3 +13,13 @@ By the end of this lesson, learners will be able to...
 - Use parameterised SQL queries to separate SQL logic/commands from user-supplied data
 - Retrieve and process query results using Python data structures
 - Handle database errors and exceptions
+
+:::::::::::::::::::::::::::::::::: prereq
+
+To follow this lesson, learners should already be able to...
+
+* Write and execute short scripts in Python.
+* Define and document functions.
+* Execute commands in the shell.
+
+:::::::::::::::::::::::::::::::::::::::::
